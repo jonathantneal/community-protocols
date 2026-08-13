@@ -4,7 +4,7 @@ An open protocol for passing contextual data between components.
 
 Author: Benjamin Delarre
 
-Document status: Candidate
+Document status: Draft
 
 Last update: 2026-08-13
 
